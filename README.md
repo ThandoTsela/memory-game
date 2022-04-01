@@ -47,7 +47,8 @@ Here is a walkthrough implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[- youtube.com
+[
+- youtube.com
 - stackoverflow
 - Javascript&jquery by Jon Duckett
 - HTML&CSS design and build websites by Jon Duckett]
