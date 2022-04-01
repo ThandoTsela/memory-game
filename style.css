@@ -1,0 +1,117 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: verda,arial,sans-serif;
+  color:lime;
+}
+
+p {
+  color:lime;
+}
+
+/* adjust typography defaults */
+body {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Lion.jpg?v=1648691549465'); /*slategrey;*/
+  color:black;
+  margin: 2rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+button {
+  padding:10px;
+  border-radius: 10px
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+#button1 {
+  background: lightgreen;
+}
+
+#button1:active, #button1.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Monkey.jpg?v=1648691556234');
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button2:active, #button2.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Panda.jpg?v=1648691561340');
+}
+
+#button3 {
+  background: pink;
+}
+
+#button3:active, #button3.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Rabbit.jpg?v=1648691566101');
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+#button4:active, #button4.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Sheep.jpg?v=1648691573473');
+}
+
+#button5 {
+  background: orange;
+}
+
+#button5:active, #button5.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Squirrel.jpg?v=1648691580898');
+}
+
+#button6 {
+  background: lightgrey;
+}
+
+#button6:active, #button6.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Tiger.jpg?v=1648691587567');
+}
+
+#button7 {
+  background: lightcoral;
+}
+
+#button7:active, #button7.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Impala.jpg?v=1648768588388');
+}
+
+#button8 {
+  background: plum;
+}
+
+#button8:active, #button8.lit {
+  background-image: url('https://cdn.glitch.global/ab28878c-50c7-4c42-a1ad-0547cfb4ab02/Zebra.jpg?v=1648691600074');
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
