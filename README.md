@@ -47,7 +47,10 @@ Here is a walkthrough implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[When I realised that I realised that we had to makea web]
+[- youtube.com
+- stackoverflow
+- Javascript&jquery by Jon Duckett
+- HTML&CSS design and build websites by Jon Duckett]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [When I realized that we had to use css, html, and javascript to complete the pre-work project I got very nervous as I have never used these languages before. I also had no idea how exactly they interact with each other. I always wanted to know how to make websites. I was afraid to fail but I figured that even in my failure I will gain a lot of skills that will be of great use in the future. So, on I went to one of my professors to ask for some books on css, html, and javascript. I also went online to familiarize myself with these languages and their interactions. Then I tried to do the html part of the project from scratch without any template code. After a few hours of struggling, I decided to go onto glitch and try the actual project. I realized that the instructions were very easy to follow. I do not know if that was because I had tried to do it by myself before. 
